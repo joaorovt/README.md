@@ -1,10 +1,7 @@
-<h1 align = "center"> João Vitor do Nascimento Alves </h1>
+<h1 align = "center"> João Vitor Alves </h1>
 
-<h3 align = "center"> I currently work in the Strategy and Data team in the Origination team in the Anti-Fraud area at Santander.
-
-I perform the analysis of data focused on personal credit and the presentation of indicators in storytelling style with the help of Power BI.
-
-I am enthusiastic about technology, especially data-related subjects, I study programming language and Big Data as elective subjects in college. </h3>
+<h3 align = "center"> I currently work in the Strategy and Data team in the Origination team in the Anti-Fraud area at Santander. 
+  I am enthusiastic about technology, especially data-related subjects, I study programming language and Big Data as elective subjects in college. </h3>
 
 ##
 
